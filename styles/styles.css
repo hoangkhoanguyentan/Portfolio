@@ -290,18 +290,21 @@ section {
   background-color: var(--color-secondary);
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 95%;
+  width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 60%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 30%;
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
   width: 40%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+  width: 30%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
+  width: 30%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .LaTeX {
   width: 30%;
 }
 
